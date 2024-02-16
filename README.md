@@ -8,6 +8,8 @@
 从[Releases](https://github.com/AXiX-official/CrossCore-Luascripts-Uncensored/releases/latest)中下载最新的`luascripts`自行替换即可。
 但是每次游戏更新`luascripts`之后，这个文件都会被覆盖，需要等待新的`luascripts`发布。(并不是每次游戏更新都会覆盖`luascripts`，但是大部分情况下都会覆盖。)
 
+**注意：** 因为使用了LZMA压缩，所以游戏启动速度会变慢一些。
+
 ## 声明
 
 本仓库提供的`luascripts`文件并不涉及修改游戏逻辑与数值，仅仅是修改了游戏中的文本内容。但是由于游戏的更新可能会导致`luascripts`的内容发生变化，因此本仓库提供的`luascripts`并不一定能够在游戏的最新版本中正常使用。
