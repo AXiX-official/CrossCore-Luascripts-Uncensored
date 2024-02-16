@@ -29,3 +29,10 @@
 - [2024.02.16](history/2024.02.16//2024.02.16.md) 恢复界面文本
 
 </details>
+
+## 相关项目
+
+- [CrossCore-Vanilla](https://github.com/lolita-id/CrossCore-Vanilla)
+  - 再现初识交错战线的香草体验。
+- [CrossCore-Luafix](https://github.com/AXiX-official/CrossCore-Luafix)
+  - 提供更多更激进的lua脚本修改，包括但不限于修改游戏逻辑与数值。
